@@ -1,3 +1,11 @@
+---
+
+<div align="center">
+    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
+</div>
+
+---
+
 # 💫 About Me:
 💻 Passionate Web Programmer who enjoys building applications using the MERN stack.<br>
 🛠️ Focused on performance, developer experience, & clean UI<br>
