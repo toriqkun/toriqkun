@@ -1,6 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Toriq&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
+<h1 align="center">Hi , I'm Toriq Rosid <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img></h1>
 
 ---
+
+<div align="center">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=3836E0&center=true&vCenter=true&width=435&lines=Fullstack+Developer;UI/UX+Designer;"
+      alt="Typing SVG"
+    />
+</div>
 
 <div align="center">
     <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
