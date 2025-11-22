@@ -1,7 +1,5 @@
 <h1 align="center">Hi , I'm Toriq Rosid <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img></h1>
 
----
-
 <div align="center">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2B93E0&center=true&vCenter=true&width=450&lines=Fullstack+Developer;UI/UX+Designer;"
@@ -81,9 +79,5 @@
 [![](https://visitcount.itsvg.in/api?id=toriqkun&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
