@@ -4,7 +4,7 @@
 
 <div align="center">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=3836E0&center=true&vCenter=true&width=435&lines=Fullstack+Developer;UI/UX+Designer;"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2B93E0&center=true&vCenter=true&width=450&lines=Fullstack+Developer;UI/UX+Designer;"
       alt="Typing SVG"
     />
 </div>
