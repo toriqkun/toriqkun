@@ -11,8 +11,6 @@
     <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
 </div>
 
----
-
 # ✨ Short Description
 Crafting high-performance and visually-clean web applications with focus on UX, efficiency, and scalability.
 
