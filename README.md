@@ -13,6 +13,11 @@
 
 ---
 
+# ✨ Short Description
+Crafting high-performance and visually-clean web applications with focus on UX, efficiency, and scalability.
+
+---
+
 # 💫 About Me:
 💻 Passionate Web Programmer who enjoys building applications using the MERN stack.<br>
 🛠️ Focused on performance, developer experience, & clean UI<br>
