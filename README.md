@@ -12,6 +12,13 @@ Full-Stack Developer
 
 </div>
 
+<div align="center">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2B93E0&center=true&vCenter=true&width=450&lines=Fullstack+Developer;UI/UX+Designer;"
+      alt="Typing SVG"
+    />
+</div>
+
 ---
 
 # 🚀 About Me
@@ -23,9 +30,8 @@ Full-Stack Developer
 
 📫 Reach me at: **toriqkun25@gmail.com**
 
-🌐 Portfolio:  
-- https://toriqrosid.site  
-- https://github.com/toriqkun  
+🌐 My Pernosal Web:  
+ https://toriqrosid.site  
 
 ---
 
