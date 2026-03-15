@@ -7,14 +7,13 @@ Full-Stack Developer
 </h3>
 
 <div align="center">
-    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2B93E0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Clean+Architecture+Enthusiast" />
+
 </div>
 
 <div align="center">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2B93E0&center=true&vCenter=true&width=450&lines=Fullstack+Developer;UI/UX+Designer;"
-      alt="Typing SVG"
-    />
+    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
 </div>
 
 ---
