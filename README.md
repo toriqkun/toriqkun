@@ -136,22 +136,8 @@ Full-Stack Developer
 
 ---
 
-# ✨ Featured Projects
+<div align="center">
 
-🚀 **StockSmart**  
-AI-powered Inventory Management & POS SaaS Platform
+[![](https://visitcount.itsvg.in/api?id=toriqkun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🚀 **Circle App**  
-Social networking platform built with React & Express.
-
-🚀 **Activity-do**  
-AI collaborative task management with Gemini API.
-
-🚀 **Slotify**  
-Service booking and scheduling platform.
-
----
-
-<p align="center">
-⭐ From <b>Toriq Rosid</b>
-</p>
+</div>
